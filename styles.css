@@ -109,8 +109,18 @@ nav ul li a:hover {
 
         /*Projets*/
 
-.projet {
+#projet {
     margin-top: 5%;
+}
+
+#projet a {
+    list-style: none;
+    cursor: pointer;
+    text-decoration: none;
+    color: #4A5DBB;
+}
+#projet a:hover {
+    font-weight: bolder;
 }
 
 
