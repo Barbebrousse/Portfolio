@@ -107,6 +107,16 @@ nav ul li a:hover {
     padding: 0%;
 }
 
+        /*Projets*/
+
+.projet {
+    margin-top: 5%;
+}
+
+
+
+
+
 @media screen and (max-width: 740px) {
 	nav {
 		justify-content: center;
